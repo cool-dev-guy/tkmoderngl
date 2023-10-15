@@ -1,7 +1,7 @@
 # tkmoderngl
 A simple code showing the implementation of `modengl` in `tkinter`.(aka canvas graphical acceleration)
 
-- base widget : tk.Label(buffered using ImageTk.PhotoImage)
+- base widget : tk.Label(buffered using ImageTk.PhotoImage & PIL)
 - NOTE: this is a modification of the `tkinter` example in `github.com/moderngl/moderngl`
 
 
