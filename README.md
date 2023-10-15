@@ -6,6 +6,7 @@ A simple code showing the implementation of `modengl` in `tkinter`.(aka canvas g
 
 
 # requirements:
+- PIL
 - moderngl
 - tkinter
 - numpy
